@@ -8,7 +8,7 @@ To run:
    where START_STATE is the fully capitalized two-letter abbreviation of the starting position state, ie. Illinois -> IL, and END_STATE is the same abbreviation of the goal state
    example:
 
-  py ./mapNavigation IL TX
+  py ./mapNavigation.py IL TX
 
   Initial state: IL
   Goal state: TX
