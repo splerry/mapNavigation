@@ -1,5 +1,5 @@
 # mapNavigation
-Project demonstrating mastery of advanced search algorithms (greedy best-first-search and A Star) by mapping paths between state capitols. This project was developed using a specific given set of distances between state capitols, not the actual distances. Please check the supplied .csv files for the distances used.
+Project demonstrating mastery of advanced search algorithms (greedy best-first-search and A Star) by mapping paths between state capitols. This project was developed using a specific given set of distances between state capitols, not the actual distances. Please check the supplied .csv files for the distances used. Made as an assignment for Intro to Artificial Intelligence @ Illinois Institute of Technology
 
 To run:
 1) requires both supplied .csv files to be in the same directory as mapNavigation.py
